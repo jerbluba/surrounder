@@ -1,0 +1,22 @@
+#left,#right{
+	background:url(../img/arrow.png);
+
+	width:40px;
+	height:40px;
+	margin-top:-5%;
+}
+#left{
+	background-position:-150px -80px;
+
+}
+#right{
+	background-position:-70px -80px;
+}
+#left:active{
+	background-position:-150px -30px;
+
+}
+
+#right:active{
+	background-position:-70px -30px;
+}

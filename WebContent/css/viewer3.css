@@ -1,0 +1,20 @@
+body{  margin: 0px;}
+
+#hot-table{
+	background-color:#dbd394;
+	
+}
+#info,#close,#refresh,#add{
+	width:40px;
+	height:40px;
+	cursor:pointer;
+	background:no-repeat;
+	background-size:40px 40px;
+}
+
+
+
+#textTitle{
+color:#006600;
+font-size:20pt;
+}

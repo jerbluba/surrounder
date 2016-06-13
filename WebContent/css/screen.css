@@ -1,0 +1,42 @@
+
+    body {
+        background:#fac695;
+    }
+
+
+#main-table{
+	margin:auto;
+	font-size:20pt;
+	position:relative;
+	text-align:center;
+	cursor:pointer;	
+	border-spacing: 0px;
+}
+#main-table0{
+	margin:auto;
+	font-size:23pt;
+	position:relative;
+	text-align:center;
+	cursor:pointer;	
+	color:#8c2803;
+}
+
+#main-table0 td{
+
+}
+#textTitle{
+color:#006600;
+font-size:28pt;
+}
+
+#human,#info,#good,#link{
+	width:40px;
+	height:40px;
+	  display: -webkit-inline-box;
+}
+#close{
+	position:relative;
+	cursor:auto;
+	display:none;
+	float:right;
+}
